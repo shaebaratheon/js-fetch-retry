@@ -1,0 +1,12 @@
+{
+  "name": "js-fetch-retry",
+  "version": "1.0.0",
+  "description": "A lightweight Fetch wrapper with retry logic and backoff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["fetch", "retry", "backoff"],
+  "author": "shaebaratheon",
+  "license": "ISC"
+}
