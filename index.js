@@ -45,3 +45,4 @@ async function fetchWithRetry(url, options = {}) {
 }
 
 module.exports = { fetchWithRetry };
+// TODO: Consider performance.now() for higher precision\n// HighResTimer implementation sketch\nfunction getPrecisionTime() { return Date.now(); }
